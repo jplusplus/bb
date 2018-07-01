@@ -41,7 +41,7 @@ This code is written for Python 3. Depending on your environment, you will use e
 
 ```shell
 git clone https://github.com/jplusplus/bb
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 
 We strongly suggest you use [virtual environments](https://docs.python.org/3/library/venv.html) for your Python installations.
