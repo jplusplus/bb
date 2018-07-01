@@ -1,3 +1,5 @@
+> Feeling impatient? Dive into some calculations we already prepared: [analysis.pdf](analysis.pdf)
+
 # Maternity clinic distances
 
 This repository contains the data used for researching distances to the nearest maternity clinic for [Ottar](https://www.ottar.se/). For the published outcome, see:
