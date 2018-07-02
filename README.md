@@ -1,4 +1,4 @@
-> Feeling impatient? Dive into some calculations we already prepared: [analysis.pdf](analysis.pdf)
+> Feeling impatient? Dive into indicators for each municipality in [municipality_indicators.csv](municipality_indicators.csv), or check some of our calculations: [analysis.pdf](analysis.pdf)
 
 # Maternity clinic distances
 
@@ -12,6 +12,8 @@ This repository contains the data used for researching distances to the nearest 
 We created a database of maternity clinics in since 2000, and then we used 1x1 km populations grids of Sweden (113,000 squares) to calculate distances. That way we could calculate the average distance for inhabitants in each municipality and how it changed over the years, find the approximate number of people who had more than a certain distance to the nearest maternity clinic at a given time, etc.
 
 A summary of the analysis is provided in the PDF file [analysis.pdf](analysis.pdf).
+
+Some key figures from that analysis is provided for each municipality in [municipality_indicators.csv](municipality_indicators.csv).
 
 Weaknesses and potential pitfalls of the data include, but are not limited to:
 
