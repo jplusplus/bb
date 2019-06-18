@@ -23,7 +23,7 @@ Weaknesses and potential pitfalls of the data include, but are not limited to:
 
 We believe that the conclusions in the published articles stand despite these issues, but some numbers included in the analyses in this repository might not. You will obviously have to use any numbers drawn from this data with care.
 
-Did we overlook something? Please let us know! (stockholm@jplusplus.org)[mailto:stockholm@jplusplus.org]
+Did we overlook something? Please let us know! [stockholm@jplusplus.org](mailto:stockholm@jplusplus.org)
 
 
 ## Running the analysis
